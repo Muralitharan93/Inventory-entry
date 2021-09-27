@@ -1,0 +1,147 @@
+.title1{
+    background-color: blue;
+    border-color: black;
+    width: 100%;
+    height: 80px;
+    
+}
+.rectangle{
+    margin-left: 1%;
+    background-color: white;
+    margin-top: -7% ;
+}
+
+.side-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0%;
+    
+}
+.side-button{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.37);
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: medium;
+    font-weight: bold;
+    position: relative;
+}
+.side-button::first-letter{
+    text-transform: capitalize;
+}
+
+.title2{
+    background-color: black;
+    font-family: sans-serif;
+    margin-right: 85%;
+    color: white;
+    font-size: medium;
+    text-align: left;
+    margin-top: -16.5%;
+}
+
+.title3{
+    background-color: white;
+    font-family: sans-serif;
+    margin-right: 85%;
+    
+    color: black;
+    font-size: medium;
+    text-align: left;
+
+}
+.side-button1{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: medium;
+    font-weight: bold;
+}
+.side-button2{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 2%;
+}
+.main{
+    margin-left: 16%;
+    position: relative;
+}
+.first{
+    margin-left: 20%;
+}
+.vl {
+    border-left: 1px solid black;
+    height: 700px;
+    position: absolute;
+    margin-left: 14.75%;
+    margin-top: 10%;
+    top: 0;
+  }
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input,
+label {
+    margin: .5rem 0;
+}
+.box{
+    position: relative;
+    margin-left: 20%;
+    margin-top: -13.50%;
+}
+.box1{
+    position: relative;
+    margin-left: 20%;
+    margin-top: 1.5%;
+}
+.box2{
+    position: relative;
+    margin-left: 40%;
+    margin-top: -12.75%;
+}
+.button{
+    background-color: white;
+    font-family: sans-serif;
+    margin-left: 40%;
+    margin-top: 50px;
+    color: black;
+    font-size: medium;
+    width: 100px;
+
+}
+select{
+    margin-top: 1%;
+    height: 22px;
+    width: 180px;
+}
+.new{
+    margin-left: 83%;
+    margin-top: -45px;
+    position: absolute;
+    background-color: white;
+    width: 180px;
+    height: 40px;
+    font-weight: bold;
+    
+}
+.table{
+    margin-left: 16%;
+}
+.text{
+    font-weight: bold;
+    color: yellow;
+    border: 1px;
+    margin-left: 5%;
+    margin-top: -3%;
+   
+}
+.reset{
+    margin-left: 60%;
+    position: relative;
+}
